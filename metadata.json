@@ -1,0 +1,6 @@
+{
+  "name": "MercureHub",
+  "description": "Plateforme SaaS E-Commerce Multi-Canaux & Copilote IA : connecteurs Shopify, WooCommerce, TikTok Shop, Payhip et Stripe, synchronisation bidirectionnelle des stocks et génération de catalogue par IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
